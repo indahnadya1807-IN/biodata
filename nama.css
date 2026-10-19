@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    color: rgb(226, 242, 184);
+    background-color: rgb(193, 184, 65);
+}
+
+.container {
+    display: flex;
+    max-width: 500px;
+    gap: 30px;
+    margin: auto;
+    text-align: left;
+    justify-content: center;
+    padding: 40px;
+    background-color: rgb(227, 234, 185);
+    color: rgb(146, 137, 14); 
+}
+
+img{
+    width: 30%;
+    height: 30%;
+}
